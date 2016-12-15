@@ -49,7 +49,7 @@ Input: (no parameters)
 
 Output: a list of BAS network formats supported/loaded by the gateway device in question (see diagram below)
 
-<embed src="C:\Users\e248072\Desktop\Media/media/image1.emf" width="441" height="181" />
+<embed src="media/image1.emf" width="441" height="181" />
 
 CreateBasNetworkConnection
 --------------------------
@@ -64,4 +64,4 @@ Input: the type of network connection to create (the name of the plugin; use Lis
 
 Output: a new BasNetworkConnection object with default configuration parameters supplied
 
-<embed src="C:\Users\e248072\Desktop\Media/media/image2.emf" width="516" height="193" />
+<embed src="media/image2.emf" width="516" height="193" />
